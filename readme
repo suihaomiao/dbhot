@@ -1,2 +1,10 @@
 this is readme about git
 
+git 相关命令
+
+git remote add oringin 远程仓库地址
+把远程仓库地址设置一个别名oringin
+
+git push -u oringin main
+对oringin的main分支推送，期间需要账号密码
+
