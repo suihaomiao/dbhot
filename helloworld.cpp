@@ -2,5 +2,5 @@
 
 int mian()
 {
-	std::cout << "helloworld!" << std::endl;
+	std::cout << "new cout" << std::endl;
 }
